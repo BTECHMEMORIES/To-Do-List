@@ -1,1 +1,2 @@
-# To-Do-List
+# ToDoList
+A project created using HTML CSS JS
